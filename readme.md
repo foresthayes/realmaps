@@ -843,4 +843,4 @@ av::av_encode_video(png_files, 'Hidden Lake Aug1.mp4', framerate = 30)
 gifski::gifski(png_files, gif_file = "Aug1_animation_v2.gif", width = 1600, height = 900, delay = 0.03)
 ```
 
-<!-- link to video on github -->
+https://user-images.githubusercontent.com/37276224/167706908-62d398c1-62e8-4b45-bf91-1b7dbd0a97ac.mp4
